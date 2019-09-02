@@ -9,6 +9,8 @@ rps('scissors','rock') // Player 2 won!
 rps('paper','paper') // Draw!
 */
 
+//Solution
+
 #include <string>
 
 std::string rps(const std::string& p1, const std::string& p2)
