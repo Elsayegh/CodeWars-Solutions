@@ -1,0 +1,18 @@
+/*
+The function should return a distance between you and the lightning (in kilometers).
+
+The function input is seconds amount between the lightning and thunder.
+
+P.S. For this kata you can assume that the speed of sound is equal to 343 m/s.
+
+
+*/
+
+
+//Solution
+
+double distance(int s)
+{
+	//code
+  return s * 0.343;
+}
