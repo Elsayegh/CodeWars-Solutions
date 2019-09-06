@@ -21,6 +21,7 @@ Note: partial liters should be managed.
 */
 
 //Solution
+#include <cmath>
 
 double milkPrice(double litres, double pricePerLitre)
 {   
