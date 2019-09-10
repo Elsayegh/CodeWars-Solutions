@@ -43,8 +43,6 @@ std::vector<int> L (int n, int L0, int L1, int add)
   //Your code
   
   std::vector<int> result {L0, L1}; 
- // int addNum = (L0 + L1 + add);
-  //result.push_back(addNum);
   int sum;
   for(int i = 2; i < n; i++)
   {
